@@ -1,0 +1,1 @@
+A Counter Application is a simple digital tool designed to perform basic counting operations. It allows users to increment, decrement, reset, or display a numeric value, typically starting from zero. This type of application is often used for tracking counts, measuring occurrences, or managing simple numeric data.
